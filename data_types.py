@@ -15,7 +15,8 @@ num3 = 2j
 #2. cadenas
 my_name = "kevin"
 my_lastname = "Benavides"
-profile = '''Kevin es uno de los mejores creadores de contenido'''
+profile = '''
+Kevin es uno de los mejores creadores de contenido'''
 address = 'bario popular casa 308'
 phone_number = "3006458943"
 print("address", type(address))
