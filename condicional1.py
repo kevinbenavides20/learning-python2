@@ -23,3 +23,4 @@ elif n1 == 0:
   print('el numero es 0 ')
 
 
+
