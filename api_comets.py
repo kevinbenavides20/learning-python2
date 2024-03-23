@@ -46,7 +46,7 @@ def get_comets():
 
 get_comets()
 print('Total datos', count)
-=======
+
 '''
 Script description: Get all data about comets.
 '''
